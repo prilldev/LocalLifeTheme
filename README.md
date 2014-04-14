@@ -1,4 +1,6 @@
-=== Local Life Theme by BGRWeb.com ===
+=== <a href="http://bgrweb.com/hyperlocal-theme/">Local Life Theme</a> by <a href="http://mywp.bgrweb.com">BGRWeb.com</a> ===
+
+<strong>Live theme demo: <a href="http://bgrlocal.com">BGR Local</a></strong>
 
 Github project link: https://github.com/prilldev/locallifetheme
 
